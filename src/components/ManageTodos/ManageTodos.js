@@ -27,7 +27,7 @@ const ManageTodos = (props) => {
                 <div className='flex items-center bg-main-color px-10 py-5 rounded-2xl justify-between'>
                     <div className='flex justify-center flex-col' >
                         <p > <span className='text-3xl font-semibold'>72</span> <span className='font-semibold text-slate-600'>kg</span> </p>
-                        <p className='text-slate-500 font-semibold'>Weight</p>
+                        <p className='text-slate-500 font-semibold'>Weigt</p>
                     </div>
                     <div className='flex justify-center flex-col' >
                         <p > <span className='text-3xl font-semibold'>5.8</span> <span className='font-semibold text-slate-600'></span> </p>
